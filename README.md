@@ -1,2 +1,2 @@
-# py-docker-hands-on-app
-This is created to perform some hands-on for a python app in docker. https://docs.docker.com/guides/python/containerize/ 
+## Simple python docker dev example for the official docker docs
+https://docs.docker.com/language/python/containerize/
